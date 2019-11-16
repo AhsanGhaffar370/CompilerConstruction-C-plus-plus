@@ -1,0 +1,8 @@
+int main ( )
+ {
+ int a = 89 + 78 ;
+ [float num = 78.87 ;
+ char c = 's' ;
+ string s = " string new1 hello " ;
+ int d = 6 ;
+ }

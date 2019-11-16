@@ -1,0 +1,9 @@
+main()
+{
+int a=89+78;
+float num=78.87.9;
+char c='s';
+string s[]="LAB";
+if(a>b && c<=78)
+num=90*6-(2/3);
+}

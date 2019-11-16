@@ -1,0 +1,35 @@
+devoid aaa(cip a,fract b, lett c)
+{
+##lett b=func(b);
+fract b[2,4]={{a,2*3,(a/b)+(2+5)},{3,b,(2+5),abc(b,c,a)}};
+}
+struct abc{
+cip b;
+};
+
+lett bv=~abcs~;
+global cip head()
+{
+whilst(b<=23*(b/3) || 2==2 ; i++)
+{
+abc1=(2+b)*32;
+}
+
+whilst(6==b)
+{
+b=abb(b,b);
+}
+
+abb(a,(a/b),c);
+
+lett f='v';
+
+if(a>=(2+1*v))
+fract b=c;
+
+otherwise
+{
+fract b;
+}
+
+}

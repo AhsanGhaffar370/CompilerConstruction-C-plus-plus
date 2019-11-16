@@ -1,0 +1,24 @@
+global cip head()
+{
+
+cip c=3;
+for(cip f=0;f<=21;f++)
+{
+for(cip f=0;f<=21;f++)
+{
+fract a=5;
+cip c=3;
+epsilon
+}
+fract a=5;
+epsilon
+}
+
+if(b>22)
+{
+fract a=5;
+epsilon
+}
+epsilon
+epsilon
+}

@@ -1,0 +1,12 @@
+main()
+{
+//comment comment1
+int a=89+78;
+float num=78.87.999;
+char c='s';
+/*
+new_comments
+new1_comment
+*/
+int d=6;
+}
